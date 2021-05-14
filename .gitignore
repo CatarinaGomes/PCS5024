@@ -1,3 +1,6 @@
+#UCI Dataset
+project_01/dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
